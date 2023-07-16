@@ -68,7 +68,7 @@ const Home = () => {
         </header>
         <section className={classes.banner}>
           <div>
-            <Typography variant="h4" gutterBottom>
+            <Typography variant="h1" gutterBottom>
               Welcome to Little Lemon
             </Typography>
             <Typography variant="body1">
